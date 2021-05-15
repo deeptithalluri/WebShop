@@ -1,0 +1,15 @@
+.container {
+  margin: 50px auto;
+  max-width: 400px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.container h1 {
+  font-size: 40px;
+  color: #d0808e;
+}
+.container img {
+  height: 500px;
+}

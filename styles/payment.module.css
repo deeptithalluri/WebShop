@@ -1,0 +1,46 @@
+.container {
+  font-size: 16px;
+  line-height: 20px;
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+  height: 600px;
+  padding: 20px;
+  margin: 40px auto;
+}
+
+.successImg {
+  width: 100px;
+  height: 100px;
+  margin: auto;
+}
+
+.paymentDetails {
+  color: #d0808e;
+  padding: 5px;
+  width: 300px;
+  margin: auto;
+}
+
+.paymentDetails h1 {
+  color: #d0808e;
+  font-size: 20px;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #d0808e;
+}
+.row {
+  width: 300px;
+  padding: 0px 5px;
+  margin-bottom: 20px;
+}
+.row td {
+  word-break: break-all;
+  width: 150px;
+  min-height: 40px;
+  max-height: 200px;
+}
+.message {
+  color: teal;
+  text-align: center;
+}
